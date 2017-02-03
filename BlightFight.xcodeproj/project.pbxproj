@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		BE2FCE581E4382350067EC27 /* RecentReportsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2FCE571E4382350067EC27 /* RecentReportsTableViewCell.swift */; };
+		BE2FCE5A1E44DC490067EC27 /* ContactTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2FCE591E44DC490067EC27 /* ContactTableViewCell.swift */; };
+		BE2FCE5C1E44DC870067EC27 /* ContactTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE2FCE5B1E44DC870067EC27 /* ContactTableViewController.swift */; };
 		BE5FD7581E40C97400DC9D8E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5FD7571E40C97400DC9D8E /* AppDelegate.swift */; };
 		BE5FD75A1E40C97400DC9D8E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5FD7591E40C97400DC9D8E /* ViewController.swift */; };
 		BE5FD75D1E40C97400DC9D8E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE5FD75B1E40C97400DC9D8E /* Main.storyboard */; };
@@ -18,6 +20,8 @@
 
 /* Begin PBXFileReference section */
 		BE2FCE571E4382350067EC27 /* RecentReportsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RecentReportsTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		BE2FCE591E44DC490067EC27 /* ContactTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactTableViewCell.swift; sourceTree = SOURCE_ROOT; };
+		BE2FCE5B1E44DC870067EC27 /* ContactTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactTableViewController.swift; sourceTree = SOURCE_ROOT; };
 		BE5FD7541E40C97400DC9D8E /* BlightFight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BlightFight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE5FD7571E40C97400DC9D8E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BE5FD7591E40C97400DC9D8E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -66,6 +70,8 @@
 				BE5FD7631E40C97400DC9D8E /* Info.plist */,
 				BE8CC8E91E4365830016CD57 /* RecentReportsTableViewController.swift */,
 				BE2FCE571E4382350067EC27 /* RecentReportsTableViewCell.swift */,
+				BE2FCE591E44DC490067EC27 /* ContactTableViewCell.swift */,
+				BE2FCE5B1E44DC870067EC27 /* ContactTableViewController.swift */,
 			);
 			path = BlightFight;
 			sourceTree = "<group>";
@@ -143,6 +149,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE2FCE581E4382350067EC27 /* RecentReportsTableViewCell.swift in Sources */,
+				BE2FCE5A1E44DC490067EC27 /* ContactTableViewCell.swift in Sources */,
+				BE2FCE5C1E44DC870067EC27 /* ContactTableViewController.swift in Sources */,
 				BE5FD75A1E40C97400DC9D8E /* ViewController.swift in Sources */,
 				BE8CC8EA1E4365830016CD57 /* RecentReportsTableViewController.swift in Sources */,
 				BE5FD7581E40C97400DC9D8E /* AppDelegate.swift in Sources */,
