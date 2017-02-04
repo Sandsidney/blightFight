@@ -26,4 +26,5 @@ class ContactTableViewCell: UITableViewCell {
     @IBOutlet var emailLabel: UILabel!
     @IBOutlet var jobTitleLabel: UILabel!
     @IBOutlet var contactImageView: UIImageView!
+    
 }
